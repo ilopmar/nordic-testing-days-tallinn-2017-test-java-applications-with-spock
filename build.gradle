@@ -11,4 +11,5 @@ dependencies {
     testCompile 'org.slf4j:slf4j-nop:1.7.25' // Because slf4j complains if no implementation is on the classpath
 
     testCompile 'cglib:cglib-nodep:3.2.5'
+    testCompile 'com.athaydes:spock-reports:1.2.13'
 }
